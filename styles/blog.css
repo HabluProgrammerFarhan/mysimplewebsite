@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    background-color: tomato;
+    width: 300px;
+    margin: auto;
+    padding: 10px 25px;
+    margin-top: 20px;
+    border-radius: 10px;
+
+}
+h1{
+    text-align: center;
+    color: blue;
+    text-decoration:underline;
+    margin-bottom: 5px;
+}
